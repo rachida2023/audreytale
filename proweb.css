@@ -1,0 +1,214 @@
+.entete{
+    margin-left: 10%;
+}
+.titre1{
+    text-align: center;
+    color:rgb(227, 1, 38);
+}
+.paragraphe1{
+    margin-left: 10%;
+}
+.paragraphe2{
+    margin-left: 35%;
+    margin-top:-15%;
+}
+.paragraphe3{
+    margin-left: 60%;
+    margin-top:-15%;
+}
+.paragraphe4{
+    margin-left: 85%;
+    margin-top:-15%;
+}
+.dernierediv{
+    padding: 10%;
+    background-color: rgb(176, 178, 179);
+    width:60%;
+    margin-left: 13%;
+}
+.titre2{
+    text-align: center;
+    color: rgb(238, 0, 16);
+    margin-top: -4%;
+}
+.boutton1{
+    border-radius:400px;
+    padding: 2%;
+    color: rgb(248, 7, 47);
+    margin-left: 25%;
+    border-color: rgb(248, 7, 47);;
+}
+.boutton2{
+    border-radius: 400px;
+    padding: 2%;
+    color: rgb(248, 7, 47);
+    margin-left: 25%;
+    border-color: rgb(245, 21, 136);;
+}
+.blocrose{
+    padding: 10%;
+    background-color:rgb(253, 6, 35);
+    width:60%;
+    margin-left: 13%; 
+}
+.texteblanc{
+    color: white;
+    margin-top: -15%;
+    text-align: center;
+    
+}
+.imagerose2{
+    width: 15%;
+    margin-top: 3%;
+    margin-left: 7%;
+   
+}
+
+.imagerose3{
+   
+    width: 15%;
+    margin-top: -1%;
+    margin-left: 15%;
+}
+.imagerose4{
+   
+    width: 15%;
+    margin-top: -1%;
+    margin-left: 20%;
+}
+.nom1{
+    color:white;
+    margin-top: 4%;
+    margin-left: 10%; 
+}
+.nom2{
+    color:white;
+    margin-top: -40%;
+    margin-left: 10%;
+    padding: 30%; 
+}
+.nom3{
+    color:white;
+    margin-top: -40%;
+    margin-left: 80%; 
+}
+@media screen and (min-width: 320px) and (max-width: 768px){
+
+    .entete{
+        width: 77%;
+        
+    }
+.entete{
+        margin-left: 10%;
+    }
+    .titre{
+    color:rgb(227, 1, 38);
+}
+.paragraphe1{
+    margin-top:-4%;
+    margin-left: 20%;
+
+}
+.paragraphe2{
+   margin-left:20%;
+    margin-top:-5%;
+    
+    
+}
+.paragraphe3{
+    margin-left:20%;
+    margin-top:-1%;
+}
+.paragraphe4{
+    margin-left:20%;
+    margin-top:-1%;
+}
+.dernierediv{
+    padding: 10%;
+    background-color: rgb(176, 178, 179);
+    width:60%;
+    margin-left: -13%;
+}
+.titre2{
+    text-align: center;
+    color: rgb(238, 0, 16);
+    margin-top: -4%;
+}
+.boutton1{
+    border-radius:400px;
+    padding: 2%;
+    color: rgb(248, 7, 47);
+    margin-left: 17%;
+    margin-right: 17%;
+    border-color: rgb(248, 7, 47);
+}
+.boutton2{
+    border-radius: 400px;
+    padding: 2%;
+    color: rgb(248, 7, 47);
+    margin-left: 17%;
+    margin-right: 17%;
+    border-color: rgb(245, 21, 136);;
+}
+body{
+    overflow-x: hidden;
+}
+.blocrose{
+    padding: 12%;
+    background-color:rgb(253, 6, 35);
+    width:60%;
+    margin-left: 11%; 
+    height: 645px;
+}
+.texteblanc{
+    color :white;
+    margin-top:-15%;
+    text-align: center;
+    
+}
+.imagerose2{
+    width: 55%;
+    margin-top: 3%;
+    margin-left: 19%;
+   
+}
+
+.imagerose3{
+   
+    width: 55%;
+    margin-top: 37%;
+    margin-left: 20%;
+}
+.imagerose4{
+   
+    width: 55%;
+    margin-top: 37%;
+    margin-left: 25%;
+}
+.nom1{
+    color:white;
+    margin-top: -223%;
+    margin-left: 30%; 
+}
+.nom2{
+    color:white;
+    margin-top: 71%;
+    margin-left: -6%;
+    text-align: center;
+}
+.nom3{
+    color:white;
+    margin-top: 60%;
+    margin-left: 40%; 
+}
+.dernierediv{
+    padding: 10%;
+    background-color: rgb(176, 178, 179);
+    width:63%;
+    margin-left: 11%;
+}
+.titre2{
+    font-size: 25px;
+    margin-bottom: 10%;
+}
+}
